@@ -16,7 +16,9 @@
             <li><a class="dropdown-item" href="fichier_appel_inclure.php">Include</a></li>
             <li><a class="dropdown-item" href="passage_valeur.php">Passage par Valeur</a></li>
             <li><a class="dropdown-item" href="strictmode.php">Include</a></li>
-        </ul>
+            <li><a class="dropdown-item" href="egalites.php">égalités</a></li>
+        
+          </ul>
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLinkTP" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             les TPS
           </a>
